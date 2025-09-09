@@ -1,4 +1,7 @@
-<img src="masterhead.gif" alt="MasterHead" width="100%" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 # <h1 align="center">👋 Hello, I'm Prince Chaudhary</h1>
 
