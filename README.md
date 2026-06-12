@@ -43,5 +43,5 @@ Computer Science student focused on Full-Stack Development and Software Engineer
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princechaudhary07&bg_color=0d1117&color=5BCDEC&line=3FB950&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princechaudhary07&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
