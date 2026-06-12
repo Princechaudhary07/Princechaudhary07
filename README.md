@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
+<h1 align="center">Hi, I'm Prince Chaudhary</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Engineer;Cloud+%26+DevOps+Learner;Lifelong+Tech+Explorer" alt="Typing Animation" />
