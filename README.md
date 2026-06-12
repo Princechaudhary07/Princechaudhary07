@@ -40,9 +40,8 @@ Computer Science student focused on Full-Stack Development and Software Engineer
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-<h2 align="center">Contributions</h2>
+<h2 align="center">Contribution Calendar</h2>
 
 <p align="center">
-  <a href="https://github.com/Princechaudhary07">
-  </a>
+  <img src="https://ghchart.rshah.org/Princechaudhary07" alt="Contribution Calendar" />
 </p>
