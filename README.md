@@ -43,5 +43,5 @@ Computer Science student focused on Full-Stack Development and Software Engineer
 <h2 align="center">Contributions</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3fb950/Princechaudhary07" alt="Prince Chaudhary's Github chart" />
+  <img src="https://ghchart.rshah.org/0e4429/Princechaudhary07" alt="Contribution Calendar" />
 </p>
