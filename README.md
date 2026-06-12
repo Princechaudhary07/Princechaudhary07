@@ -40,8 +40,8 @@ Computer Science student focused on Full-Stack Development and Software Engineer
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princechaudhary07&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/3fb950/Princechaudhary07" alt="Prince Chaudhary's Github chart" />
 </p>
