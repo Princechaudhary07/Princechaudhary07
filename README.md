@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="./assets//240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width='100%' alt="banner" />
+</div>
+
+---
+
+<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Engineer;Cloud+%26+DevOps+Learner;Lifelong+Tech+Explorer" alt="Typing Animation" />
+</h3>
+
+---
+
 # About Me:
 Computer Science student focused on Full-Stack Development and Software Engineering. Skilled in Java, MERN Stack, SQL, Git, Linux, and Data Structures & Algorithms. Passionate about building impactful projects and continuously learning new technologies.
 
