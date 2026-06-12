@@ -34,6 +34,6 @@ Computer Science student focused on Full-Stack Development and Software Engineer
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Princechaudhary07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-### Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
