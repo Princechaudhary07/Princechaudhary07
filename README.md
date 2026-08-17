@@ -67,7 +67,7 @@ Computer Science student focused on Full-Stack Development and Software Engineer
   </a>
   &nbsp;
 
-  <a href="https://auth.geeksforgeeks.org/user/princechaudhn8n4/">
+  <a href="https://www.geeksforgeeks.org/profile/princechaudn8n4">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
  </div>
